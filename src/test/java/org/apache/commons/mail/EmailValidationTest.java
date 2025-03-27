@@ -8,7 +8,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import java.util.Date;
-
+// CI TEST
 // Test class for validating email functionality
 public class EmailValidationTest {
 
